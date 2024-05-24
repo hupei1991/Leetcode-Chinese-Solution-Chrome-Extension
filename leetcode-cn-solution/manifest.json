@@ -1,12 +1,11 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
   "manifest_version": 2,
 
   "name": "力扣中文题解",
   "description": "一键直达力扣中文题解。",
   "version": "0.0.1",
   "homepage_url":"https://www.google.com/",
+  "update_url": "https://www.google.com/",
 
   "icons": {
     "128": "img/icon.png"
