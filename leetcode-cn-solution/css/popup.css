@@ -85,7 +85,3 @@ h2 {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#81530d', endColorstr='#ffa116',GradientType=0);
 	background-color:#81530d;
 }
-#go-button:active {
-	position:relative;
-	top:1px;
-}
